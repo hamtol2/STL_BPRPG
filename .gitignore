@@ -1,3 +1,7 @@
+# Custom Folder.
+RawData/*
+RawData/GameData/*
+
 *.zip
 *.rar
 *.7z
